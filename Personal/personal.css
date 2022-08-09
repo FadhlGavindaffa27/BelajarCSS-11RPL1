@@ -1,0 +1,39 @@
+*,
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('backgrounddd.jpg');
+    background-size: cover;
+    background-position: top;
+}
+
+h1,
+h2,
+h3,
+p,
+a {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.centerbox {
+    width: 550px;
+    margin: 0 auto;
+    border: 1px solid white;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background: rgba(red, green, blue, alpha);
+}
+
+.avatar img {
+    border-radius: 50%;
+}
+
+.social {
+    margin: 10px auto;
+}
